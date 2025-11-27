@@ -12,4 +12,5 @@ button {
   width: 10vw;
   border-radius: 1rem;
   background-color: var(--main-bleufoncé);
+  color: white;
 }
