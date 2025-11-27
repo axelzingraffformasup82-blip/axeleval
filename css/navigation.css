@@ -1,0 +1,17 @@
+.menu {
+  width: 40vw;
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+}
+
+.navmenu ul {
+  display: flex;
+  list-style: none;
+  background-color: #0229d8;
+  border-radius: 1rem;
+}
+
+.navmenu ul li {
+  margin: 1rem;
+}
