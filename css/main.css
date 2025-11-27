@@ -3,23 +3,29 @@
   height: 70vh;
   display: flex;
   justify-content: center;
-  align-items: center;
-  background-color: rgb(145, 82, 0);
+  align-content: center;
+  flex-wrap: wrap;
+  background-color: var(--main-bleufoncé);
   border-radius: 2rem;
+  margin: 2rem 0;
+  padding: 2rem;
 }
 
 .zero {
   display: flex;
   justify-content: space-between;
+  margin: 2rem 0;
 }
 
 .zero div {
-  width: 40%;
+  width: 40vw;
   height: 70vh;
   display: flex;
   flex-direction: row;
   justify-content: center;
-  align-items: center;
-  background-color: rgb(29, 145, 0);
+  align-content: center;
+  flex-wrap: wrap;
+  background-color: var(--main-bleuclair);
   border-radius: 2rem;
+  padding: 1rem;
 }

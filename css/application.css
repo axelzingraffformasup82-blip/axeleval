@@ -3,3 +3,8 @@
 @import url("footer.css");
 @import url("header.css");
 @import url("layout.css");
+
+:root {
+  --main-bleuclair: rgb(145, 170, 219);
+  --main-bleufoncé: rgb(4, 33, 97);
+}

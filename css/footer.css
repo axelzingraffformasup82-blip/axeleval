@@ -1,5 +1,11 @@
 footer div {
-  margin: 10vw;
-  background-color: rgb(184, 118, 141);
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 2rem;
+  background-color: var(--main-bleuclair);
   border-radius: 10px;
+  height: 20vh;
+  width: 30vw;
 }

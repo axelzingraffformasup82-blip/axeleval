@@ -1,6 +1,6 @@
 .logo {
   display: flex;
-  background-color: #eeea01;
+  background-color: var(--main-bleuclair);
   width: 100px;
   min-height: 40px;
   border-radius: 1rem;
@@ -11,4 +11,5 @@
 button {
   width: 10vw;
   border-radius: 1rem;
+  background-color: var(--main-bleufoncé);
 }
